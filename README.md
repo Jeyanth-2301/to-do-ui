@@ -19,14 +19,16 @@ To get a local copy up and running, follow these steps:
    ```bash
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
+
  2. **Install dependencies:**
 
     ```bash
+    npm install vite
     npm install
 3. **Start the development server**
 
     ```bash
-    npm start
+    npm tun dev
 Open your browser and navigate to http://localhost:3000 to see the app running.
 
 ## Usage
